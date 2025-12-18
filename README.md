@@ -45,7 +45,7 @@ python CommandBuilderDialog.py
 
 ### 3. Search, Learn & Execute 🚀
 Type in the input box, select a command from the dropdown, and execute it in a terminal window.
-This approach allows you to **practice commands in a safe and guided environment** while learning their syntax and effects.
+This approach allows you to **practice commands in a guided environment** while learning their syntax and effects.
 
 ## Features
 
@@ -102,7 +102,7 @@ python CommandBuilderDialog.py
 
 ### 3. Rechercher, Apprendre & Exécuter 🚀
 Tapez dans la barre de recherche, sélectionnez une commande et lancez-la dans un terminal xterm.
-Cette approche permet de **pratiquer les commandes dans un environnement sûr et guidé**, tout en apprenant leur syntaxe et leurs effets.
+Cette approche permet de **pratiquer les commandes dans un environnement guidé**, tout en apprenant leur syntaxe et leurs effets.
 
 ## Fonctionnalités
 
