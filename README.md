@@ -53,8 +53,22 @@ This approach allows you to **practice commands in a guided environment** while 
 * Smart search with **Chosen** input
 * JSON-based commands database
 * Easy execution in **xterm**
-* Simple update via `commands_generator.py`
-  
+* Simple update via `commands_generator.py
+
+---
+
+## 📄 License
+
+To be defined.
+
+## 👤 Author
+
+Project developed by Sébastien Dethyre.
+
+## 🤝 Contributions
+
+Contributions, suggestions, and feedback are welcome.  
+Feel free to open an issue or submit a pull request.
 ---
 
 <br>
@@ -111,3 +125,22 @@ Cette approche permet de **pratiquer les commandes dans un environnement guidé*
 * Base de commandes JSON
 * Exécution facile dans xterm
 * Mise à jour simple via commands_generator.py
+
+---
+
+## 📄 Licence
+
+À définir.
+
+---
+
+## 👤 Auteur
+
+Projet développé par Sébastien Dethyre.
+
+---
+
+## 🤝 Contributions
+
+Les contributions, suggestions et retours sont les bienvenus.  
+N’hésitez pas à ouvrir une issue ou une pull request.
