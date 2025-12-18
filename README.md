@@ -40,7 +40,7 @@ This populates `commands.json` with all available commands on your disk.
 
 ### 2. Launch the GUI
 ```bash
-python command_finder_gui.py
+python CommandBuilderDialog.py
 ```
 
 ### 3. Search, Learn & Execute 🚀
@@ -97,7 +97,7 @@ Ce script remplira `commands.json` avec toutes les commandes disponibles sur vot
 
 ### 2. Lancer l’interface graphique
 ```bash
-python command_finder_gui.py
+python CommandBuilderDialog.py
 ```
 
 ### 3. Rechercher, Apprendre & Exécuter 🚀
