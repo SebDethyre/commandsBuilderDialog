@@ -7,7 +7,7 @@
 ## Overview
 
 **Command Finder GUI** is primarily an **ergonomic learning tool for Linux commands**.
-It allows you to **search for and explore all commands stored on your disk** via a smart input powered by **Chosen**. Commands are stored in a JSON file called `commands.json`.
+It allows you to **search for and explore all commands stored on your disk** (as well as their options) via a smart input powered by **Chosen**. Commands are stored in a JSON file called `commands.json`.
 
 With an intuitive dropdown, you can **discover commands, understand their usage, and practice executing them**, making it a practical companion for learning Linux efficiently.
 
@@ -65,7 +65,7 @@ This approach allows you to **practice commands in a safe and guided environment
 ## Présentation
 
 Command Finder GUI est **avant tout un outil ergonomique pour apprendre les commandes Linux**.
-Il permet de **rechercher et explorer toutes les commandes présentes sur votre disque** grâce à un input intelligent de type **Chosen**. Les commandes sont stockées dans un fichier JSON appelé `commands.json`.
+Il permet de **rechercher et explorer toutes les commandes présentes sur votre disque** (ainsi que leurs options) grâce à un input intelligent de type **Chosen**. Les commandes sont stockées dans un fichier JSON appelé `commands.json`.
 
 Grâce à un menu déroulant intuitif, vous pouvez **découvrir les commandes, comprendre leur usage et les exécuter en pratique**, faisant de cet outil un compagnon idéal pour apprendre Linux efficacement.
 
